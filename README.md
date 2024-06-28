@@ -1,9 +1,7 @@
 # Project-3rd-Semester
-
 Deploying a Static Website on AWS using Terraform
 Objective
 Create an AWS infrastructure to host a static website using Terraform. The infrastructure will include:
-
 AWS S3 for storing the website files
 CloudFront for content delivery
 Route 53 for domain name management
